@@ -1,0 +1,9 @@
+{
+    "build": {
+      "context": "SmartParkz-frontend"
+    },
+    "deploy": {
+      "context": "SmartParkz-frontend"
+    }
+  }
+  
